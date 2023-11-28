@@ -17,7 +17,7 @@ SecPassword is an advanced password generation tool designed to fortify your acc
 # Installation 
 1. Clone the repository:
 <pre>
-    git clone 'https://github.com/rodrigocolozio/CREATE-REPOSITORY'
+    git clone 'https://github.com/rodrigocolozio/secpassword.git'
 </pre>
 2. Change directory to where you've cloned it
 <pre>
